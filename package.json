@@ -1,0 +1,16 @@
+{
+  "name": "music-scraper7",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/markdown-it": "^14.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "markdown-ast": "^0.3.0",
+    "markdown-it": "^14.1.0"
+  }
+}
